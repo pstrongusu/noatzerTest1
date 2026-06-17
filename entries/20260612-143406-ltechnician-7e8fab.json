@@ -1,0 +1,25 @@
+{
+  "entry_id": "20260612-143406-ltechnician-7e8fab",
+  "visit_id": "20260612-LR_WaterLab_AA-ca1a1a",
+  "author": "ltechnician",
+  "timestamp": "2026-06-12T14:34:06.213356",
+  "timestamp_end": "2026-06-12T14:34:06.213356",
+  "observation_time": "2026-06-12T14:38:00",
+  "type": "observation",
+  "text": "quick notes should have been longer",
+  "data": null,
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": [],
+  "edit_history": [
+    {
+      "timestamp": "2026-06-12T14:51:55",
+      "edited_by": "unknown",
+      "changes": {
+        "observation_time": "2026-06-12T14:34:00",
+        "text": "quick note"
+      }
+    }
+  ]
+}

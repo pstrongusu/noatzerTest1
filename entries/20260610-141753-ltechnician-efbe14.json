@@ -1,0 +1,56 @@
+{
+  "entry_id": "20260610-141753-ltechnician-efbe14",
+  "visit_id": "20260610-BSF_CONF_BA-e36f47",
+  "author": "ltechnician",
+  "timestamp": "2026-06-10T14:17:53.145278",
+  "timestamp_end": "2026-06-10T14:17:53.145278",
+  "observation_time": "2026-06-10T14:17:53.145278",
+  "type": "level_survey",
+  "text": "Level Survey: HI = 11.2300 m, WSE = 9.3143 m",
+  "data": {
+    "autolevel_id": "Level-1",
+    "grade_rod_id": "rod-1",
+    "dipstick_id": "DS-1",
+    "rod_person": "Logan Technician",
+    "rod_uncertainty_m": 0.0030480000000000004,
+    "shots": [
+      {
+        "type": "backsight",
+        "target_code": "BM-1",
+        "rod_reading": 1.23,
+        "timestamp": "2026-06-10T14:17:53.138525"
+      },
+      {
+        "type": "foresight",
+        "rod_reading": 2.2,
+        "timestamp": "2026-06-10T14:09:04.488357",
+        "target_code": "BM-1"
+      },
+      {
+        "type": "rod_stage",
+        "rod_reading": 2.013,
+        "timestamp": "2026-06-10T14:11:33.332685",
+        "water_correction": 0.25,
+        "correction_uncertainty_m": 0.01
+      },
+      {
+        "type": "dipstick",
+        "rod_reading": 1.87,
+        "timestamp": "2026-06-10T14:12:02.911414",
+        "wetted_length": 0.15
+      }
+    ],
+    "hi_m": 11.23,
+    "benchmark_snapshot": {
+      "feature_code": "BM-1",
+      "elevation_m": 10.0,
+      "datum": "arbitrary"
+    },
+    "wse_m": 9.31428,
+    "wse_uncertainty_m": 0.003
+  },
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}

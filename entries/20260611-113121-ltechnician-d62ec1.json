@@ -1,0 +1,83 @@
+{
+  "entry_id": "20260611-113121-ltechnician-d62ec1",
+  "visit_id": "20260610-LR_WaterLab_AA-932a1f",
+  "author": "ltechnician",
+  "timestamp": "2026-06-11T11:31:21.886843",
+  "timestamp_end": "2026-06-11T11:31:21.886843",
+  "observation_time": "2026-06-11T11:31:21.886843",
+  "type": "level_survey",
+  "text": "Level Survey: HI = 11.2300 m, WSE = [8.0000, 7.9900] m, closure = 5.0 mm ✓",
+  "data": {
+    "autolevel_id": "Level-1",
+    "grade_rod_id": "rod-1",
+    "dipstick_id": "DS-1",
+    "rod_person": "Other Person",
+    "rod_uncertainty_m": 0.0030480000000000004,
+    "shots": [
+      {
+        "type": "backsight",
+        "target_code": "BM_old",
+        "rod_reading": 1.23,
+        "timestamp": "2026-06-11T11:31:21.883307"
+      },
+      {
+        "type": "foresight",
+        "rod_reading": 2.73,
+        "timestamp": "2026-06-11T11:19:00",
+        "target_code": "CP-N",
+        "elevation_m": 8.5
+      },
+      {
+        "type": "rod_stage",
+        "rod_reading": 3.23,
+        "timestamp": "2026-06-11T11:20:00",
+        "water_correction": 0.0,
+        "correction_uncertainty_m": 0.003,
+        "wse_m": 8.0
+      },
+      {
+        "type": "dipstick",
+        "rod_reading": 3.9,
+        "timestamp": "2026-06-11T11:21:00",
+        "wetted_length": 14.0,
+        "wetted_length_units": "cm",
+        "wse_m": 7.99
+      },
+      {
+        "type": "closing_backsight",
+        "rod_reading": 1.225,
+        "timestamp": "2026-06-11T11:24:00",
+        "target_code": "BM_old",
+        "elevation_m": 10.005
+      }
+    ],
+    "hi_m": 11.23,
+    "benchmark_snapshot": {
+      "feature_code": "BM_old",
+      "elevation_m": 10.0,
+      "datum": "NAVD88"
+    },
+    "wse_results": [
+      {
+        "wse_m": 8.0,
+        "uncertainty_m": 0.003,
+        "shot_type": "rod_stage",
+        "timestamp": "2026-06-11T11:20:00"
+      },
+      {
+        "wse_m": 7.99,
+        "uncertainty_m": 0.003,
+        "shot_type": "dipstick",
+        "timestamp": "2026-06-11T11:21:00"
+      }
+    ],
+    "wse_m": 7.99,
+    "wse_uncertainty_m": 0.003,
+    "closure_error_m": 0.005000000000000782,
+    "closure_pass": true
+  },
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}

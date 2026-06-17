@@ -1,0 +1,12 @@
+{
+  "visit_id": "20260610-BSF_CONF_BA-e36f47",
+  "site_code": "BSF_CONF_BA",
+  "arrival": "2026-06-10T13:47:03.704231",
+  "departure": "2026-06-10T14:44:12.900770",
+  "personnel": [
+    "ltechnician",
+    "OPerson"
+  ],
+  "campaign_id": null,
+  "_source_file": null
+}

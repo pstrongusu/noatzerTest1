@@ -1,0 +1,35 @@
+{
+  "entry_id": "20260610-125143-ltechnician-b92a35",
+  "visit_id": "20260610-BSF_CONF_BA-4630ad",
+  "author": "ltechnician",
+  "timestamp": "2026-06-10T12:51:43.324020",
+  "timestamp_end": "2026-06-10T12:51:43.324020",
+  "observation_time": "2026-06-10T12:51:00",
+  "type": "stage_plate_reading",
+  "text": "25.0 cm → WSE = 8.550 m",
+  "data": {
+    "sampling_feature_code": "SP-1",
+    "sampling_feature_snapshot": {
+      "feature_code": "SP-1",
+      "type": "stage_plate",
+      "bspe_m": 8.3,
+      "length": 100.0,
+      "units": "cm",
+      "plate_type": null,
+      "datum": null
+    },
+    "reading": 25.0,
+    "units": "cm",
+    "reading_m": 0.25,
+    "uncertainty": 1.0,
+    "uncertainty_units": "cm",
+    "uncertainty_m": 0.01,
+    "bspe_m": 8.3,
+    "wse_m": 8.55,
+    "observation_time": "2026-06-10T12:51:00"
+  },
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}

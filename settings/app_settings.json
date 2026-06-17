@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "survey": {
+      "loop_closure_warning_threshold_m": 0.003,
+      "monument_delta_warning_threshold_m": 0.003,
+      "default_rod_uncertainty_m": 0.003,
+      "default_wetted_uncertainty_m": 0.003,
+      "default_rod_units": "m"
+    },
+    "coordinates": {
+      "default_coordinate_system": "UTM12N_NAD83",
+      "default_datum": "NAVD88"
+    },
+    "sync": {
+      "prompt_if_stale_hours": 24
+    }
+  },
+  "last_survey_equipment": {
+    "autolevel_id": "Level-1",
+    "grade_rod_id": "rod-1",
+    "dipstick_id": "DS-1",
+    "rod_person": "Other Person"
+  },
+  "git_remote_url": "https://github.com/pstrongusu/noatzerTest1.git"
+}

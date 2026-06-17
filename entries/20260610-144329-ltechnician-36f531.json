@@ -1,0 +1,74 @@
+{
+  "entry_id": "20260610-144329-ltechnician-36f531",
+  "visit_id": "20260610-BSF_CONF_BA-e36f47",
+  "author": "ltechnician",
+  "timestamp": "2026-06-10T14:43:29.197444",
+  "timestamp_end": "2026-06-10T14:43:29.197444",
+  "observation_time": "2026-06-10T14:43:29.197444",
+  "type": "level_survey",
+  "text": "Level Survey: HI = 11.2300 m, WSE = [9.8990, 10.3300] m",
+  "data": {
+    "autolevel_id": "Level-1",
+    "grade_rod_id": "rod-1",
+    "dipstick_id": "DS-1",
+    "rod_person": "Logan Technician",
+    "rod_uncertainty_m": 0.0030480000000000004,
+    "shots": [
+      {
+        "type": "backsight",
+        "target_code": "BM-1",
+        "rod_reading": 1.23,
+        "timestamp": "2026-06-10T14:43:29.197444"
+      },
+      {
+        "type": "foresight",
+        "rod_reading": 2.321,
+        "timestamp": "2026-06-10T14:39:00",
+        "target_code": "BM-1",
+        "elevation_m": 8.909
+      },
+      {
+        "type": "dipstick",
+        "rod_reading": 1.321,
+        "timestamp": "2026-06-10T14:40:00",
+        "wetted_length": 1.0,
+        "wetted_length_units": "cm",
+        "wse_m": 9.899000000000001
+      },
+      {
+        "type": "rod_stage",
+        "rod_reading": 1.0,
+        "timestamp": "2026-06-10T14:41:00",
+        "water_correction": 0.1,
+        "correction_uncertainty_m": 0.003,
+        "wse_m": 10.33
+      }
+    ],
+    "hi_m": 11.23,
+    "benchmark_snapshot": {
+      "feature_code": "BM-1",
+      "elevation_m": 10.0,
+      "datum": "arbitrary"
+    },
+    "wse_results": [
+      {
+        "wse_m": 9.899000000000001,
+        "uncertainty_m": 0.003,
+        "shot_type": "dipstick",
+        "timestamp": "2026-06-10T14:40:00"
+      },
+      {
+        "wse_m": 10.33,
+        "uncertainty_m": 0.003,
+        "shot_type": "rod_stage",
+        "timestamp": "2026-06-10T14:41:00"
+      }
+    ],
+    "wse_m": 10.33,
+    "wse_uncertainty_m": 0.003
+  },
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}

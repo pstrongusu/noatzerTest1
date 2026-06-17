@@ -1,0 +1,26 @@
+{
+  "personnel": [
+    {
+      "id": "ltechnician",
+      "name": "Logan Technician",
+      "role": "Technician",
+      "affiliation": "USU LRO",
+      "email": "loganriverobservatory@gmail.com"
+    },
+    {
+      "id": "OPerson",
+      "name": "Other Person",
+      "role": "technicalition",
+      "affiliation": "USU LRO",
+      "email": "email@example.com"
+    },
+    {
+      "id": "JHydrotech",
+      "name": "Johnny Hydrotech",
+      "role": "",
+      "affiliation": "",
+      "email": "",
+      "status": "inactive"
+    }
+  ]
+}

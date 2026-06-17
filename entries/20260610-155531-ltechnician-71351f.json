@@ -1,0 +1,53 @@
+{
+  "entry_id": "20260610-155531-ltechnician-71351f",
+  "visit_id": "20260610-LR_WaterLab_AA-932a1f",
+  "author": "ltechnician",
+  "timestamp": "2026-06-10T15:55:31.720562",
+  "timestamp_end": "2026-06-10T15:55:31.720562",
+  "observation_time": "2026-06-10T15:55:31.720562",
+  "type": "level_survey",
+  "text": "Level Survey: HI = 4.2500 m, WSE = 1.5500 m",
+  "data": {
+    "autolevel_id": "Level-1",
+    "grade_rod_id": "rod-1",
+    "dipstick_id": "DS-1",
+    "rod_person": "Other Person",
+    "rod_uncertainty_m": 0.0030480000000000004,
+    "shots": [
+      {
+        "type": "backsight",
+        "target_code": "BM_old",
+        "rod_reading": 4.25,
+        "timestamp": "2026-06-10T15:55:31.706084"
+      },
+      {
+        "type": "rod_stage",
+        "rod_reading": 3.0,
+        "timestamp": "2026-06-10T15:54:00",
+        "water_correction": 0.3,
+        "correction_uncertainty_m": 0.01,
+        "wse_m": 1.55
+      }
+    ],
+    "hi_m": 4.25,
+    "benchmark_snapshot": {
+      "feature_code": "BM_old",
+      "elevation_m": 0.0,
+      "datum": "NAVD88"
+    },
+    "wse_results": [
+      {
+        "wse_m": 1.55,
+        "uncertainty_m": 0.01,
+        "shot_type": "rod_stage",
+        "timestamp": "2026-06-10T15:54:00"
+      }
+    ],
+    "wse_m": 1.55,
+    "wse_uncertainty_m": 0.01
+  },
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}

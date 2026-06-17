@@ -1,0 +1,134 @@
+{
+  "sites": [
+    {
+      "site_code": "LR_WaterLab_AA",
+      "name": "Logan River at the Utah Water Research Laboratory west bridge",
+      "sampling_feature_type": "site",
+      "description": null,
+      "latitude": 0.0,
+      "longitude": 0.0,
+      "elevation_m": 0.0,
+      "established": null,
+      "access": null,
+      "sampling_features": [
+        {
+          "feature_code": "BM_old",
+          "type": "reference_point",
+          "description": "old \"x\" benchmark",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "NAVD88",
+          "is_benchmark": true
+        },
+        {
+          "feature_code": "SP-1",
+          "type": "stage_plate",
+          "description": "the stage plate",
+          "status": "active",
+          "length": 1.0,
+          "units": "m",
+          "plate_type": "shiny",
+          "bspe_m": 7.8675
+        },
+        {
+          "feature_code": "SP-2",
+          "type": "stage_plate",
+          "description": "another one!",
+          "status": "active",
+          "length": 100.0,
+          "units": "cm",
+          "plate_type": null,
+          "bspe_m": 7.6275
+        },
+        {
+          "feature_code": "SP-3",
+          "type": "stage_plate",
+          "description": null,
+          "status": "active",
+          "length": 0.0,
+          "units": "ft",
+          "plate_type": null,
+          "bspe_m": 0.0
+        },
+        {
+          "feature_code": "CP-N",
+          "type": "reference_point",
+          "description": "North aluminum monument",
+          "status": "active",
+          "elevation_m": 8.5,
+          "datum": "arbitrary",
+          "is_benchmark": false
+        }
+      ],
+      "contacts": [],
+      "site_notes": []
+    },
+    {
+      "site_code": "BSF_CONF_BA",
+      "name": "Blacksmith Fork above confluence with Logan River",
+      "sampling_feature_type": "site",
+      "description": null,
+      "latitude": 41.704431,
+      "longitude": -111.8508,
+      "elevation_m": 1366.0,
+      "established": null,
+      "access": null,
+      "sampling_features": [
+        {
+          "feature_code": "BM-1",
+          "type": "reference_point",
+          "description": "Site Benchmark - top of enclosure ground rod",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary"
+        },
+        {
+          "feature_code": "SP-1",
+          "type": "stage_plate",
+          "description": null,
+          "status": "active",
+          "length": 100.0,
+          "units": "cm",
+          "plate_type": null,
+          "bspe_m": 8.3
+        }
+      ],
+      "contacts": [],
+      "site_notes": []
+    },
+    {
+      "site_code": "LR_MainStree_BA",
+      "name": "Logan River at Main Street (Highway 89/91) Bridge",
+      "sampling_feature_type": "site",
+      "description": null,
+      "latitude": 41.721091,
+      "longitude": -111.835096,
+      "elevation_m": 1377.0,
+      "established": null,
+      "access": null,
+      "sampling_features": [
+        {
+          "feature_code": "SP-1",
+          "type": "stage_plate",
+          "description": null,
+          "status": "active",
+          "length": 100.0,
+          "units": "cm",
+          "plate_type": "Type M",
+          "bspe_m": 9.424
+        },
+        {
+          "feature_code": "BM-1",
+          "type": "reference_point",
+          "description": "Bridge wing wall rebar",
+          "status": "active",
+          "elevation_m": 10.0,
+          "datum": "arbitrary",
+          "is_benchmark": true
+        }
+      ],
+      "contacts": [],
+      "site_notes": []
+    }
+  ]
+}

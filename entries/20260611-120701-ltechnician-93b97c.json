@@ -1,0 +1,127 @@
+{
+  "entry_id": "20260611-120701-ltechnician-93b97c",
+  "visit_id": "20260610-LR_WaterLab_AA-932a1f",
+  "author": "ltechnician",
+  "timestamp": "2026-06-11T12:07:01.582296",
+  "timestamp_end": "2026-06-11T12:07:01.582296",
+  "observation_time": "2026-06-11T12:07:01.582296",
+  "type": "level_survey",
+  "text": "Level Survey: HI = 12.2350 m, WSE = [8.0000, 8.0100, 8.0180] m, closure = 5.0 mm ✓",
+  "data": {
+    "autolevel_id": "Level-1",
+    "grade_rod_id": "rod-1",
+    "dipstick_id": "DS-1",
+    "rod_person": "Other Person",
+    "rod_uncertainty_m": 0.0030480000000000004,
+    "equipment_snapshots": {
+      "autolevel": {
+        "instrument_id": "Level-1",
+        "type": "autolevel",
+        "manufacturer": "Leica",
+        "model": "NA320",
+        "serial_number": "123456"
+      },
+      "grade_rod": {
+        "instrument_id": "rod-1",
+        "type": "grade_rod",
+        "manufacturer": null,
+        "model": null,
+        "serial_number": null,
+        "units": "ft",
+        "length_m": 25.0,
+        "graduation_m": 0.01
+      },
+      "dipstick": {
+        "instrument_id": "DS-1",
+        "type": "dipstick",
+        "manufacturer": null,
+        "model": null,
+        "serial_number": null,
+        "length": 0.8,
+        "units": "m"
+      }
+    },
+    "shots": [
+      {
+        "type": "backsight",
+        "target_code": "BM_old",
+        "rod_reading": 2.235,
+        "timestamp": "2026-06-11T12:07:01.574936"
+      },
+      {
+        "type": "foresight",
+        "rod_reading": 3.25,
+        "timestamp": "2026-06-11T12:02:00",
+        "target_code": "CP-N",
+        "elevation_m": 8.985
+      },
+      {
+        "type": "rod_stage",
+        "rod_reading": 4.235,
+        "timestamp": "2026-06-11T12:03:00",
+        "water_correction": 0.0,
+        "correction_uncertainty_m": 0.003,
+        "wse_m": 7.999999999999999
+      },
+      {
+        "type": "rod_stage",
+        "rod_reading": 4.535,
+        "timestamp": "2026-06-11T12:03:00",
+        "water_correction": 0.31,
+        "correction_uncertainty_m": 0.01,
+        "wse_m": 8.01
+      },
+      {
+        "type": "dipstick",
+        "rod_reading": 5.015,
+        "timestamp": "2026-06-11T12:04:00",
+        "wetted_length": 0.2,
+        "wetted_length_units": "cm",
+        "dipstick_length": 0.8,
+        "dipstick_length_units": "m",
+        "wse_m": 8.018
+      },
+      {
+        "type": "closing_backsight",
+        "rod_reading": 2.23,
+        "timestamp": "2026-06-11T12:05:00",
+        "target_code": "BM_old",
+        "elevation_m": 10.004999999999999
+      }
+    ],
+    "hi_m": 12.235,
+    "benchmark_snapshot": {
+      "feature_code": "BM_old",
+      "elevation_m": 10.0,
+      "datum": "NAVD88"
+    },
+    "wse_results": [
+      {
+        "wse_m": 7.999999999999999,
+        "uncertainty_m": 0.003,
+        "shot_type": "rod_stage",
+        "timestamp": "2026-06-11T12:03:00"
+      },
+      {
+        "wse_m": 8.01,
+        "uncertainty_m": 0.01,
+        "shot_type": "rod_stage",
+        "timestamp": "2026-06-11T12:03:00"
+      },
+      {
+        "wse_m": 8.018,
+        "uncertainty_m": 0.003,
+        "shot_type": "dipstick",
+        "timestamp": "2026-06-11T12:04:00"
+      }
+    ],
+    "wse_m": 8.018,
+    "wse_uncertainty_m": 0.003,
+    "closure_error_m": 0.004999999999999005,
+    "closure_pass": true
+  },
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}

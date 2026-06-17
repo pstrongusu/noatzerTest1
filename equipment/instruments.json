@@ -1,0 +1,36 @@
+{
+  "instruments": [
+    {
+      "instrument_id": "Level-1",
+      "type": "autolevel",
+      "status": "lab",
+      "manufacturer": "Leica",
+      "model": "NA320",
+      "serial_number": "123456"
+    },
+    {
+      "instrument_id": "Level-2",
+      "category": "Survey Gear",
+      "type": "otherlevel",
+      "status": "lab"
+    },
+    {
+      "instrument_id": "rod-1",
+      "category": "Survey Gear",
+      "type": "grade_rod",
+      "status": "lab",
+      "length_m": 25.0,
+      "units": "ft",
+      "graduation_m": 0.01
+    },
+    {
+      "instrument_id": "DS-1",
+      "category": "Survey Gear",
+      "type": "dipstick",
+      "status": "lab",
+      "model": "short, white ball",
+      "length": 0.8,
+      "units": "m"
+    }
+  ]
+}
