@@ -1,0 +1,97 @@
+{
+  "entry_id": "20260618-151612-OPerson-1ce126",
+  "visit_id": "20260618-LR_WaterLab_AA-0de132",
+  "author": "OPerson",
+  "timestamp": "2026-06-18T15:16:12.824894",
+  "timestamp_end": "2026-06-18T15:16:12.824894",
+  "observation_time": "2026-06-18T15:16:12.824894",
+  "type": "level_survey",
+  "text": "Level Survey: HI = 12.0000 m, WSE = 9.7700 m, closure = 10.0 mm",
+  "data": {
+    "autolevel_id": "Level-1",
+    "grade_rod_id": "rod-1",
+    "dipstick_id": "DS-1",
+    "rod_person": "Other Person",
+    "rod_uncertainty_m": 0.0030480000000000004,
+    "equipment_snapshots": {
+      "autolevel": {
+        "instrument_id": "Level-1",
+        "type": "autolevel",
+        "manufacturer": "Leica",
+        "model": "NA320",
+        "serial_number": "123456"
+      },
+      "grade_rod": {
+        "instrument_id": "rod-1",
+        "type": "grade_rod",
+        "manufacturer": null,
+        "model": null,
+        "serial_number": null,
+        "units": "ft",
+        "length_m": 25.0,
+        "graduation_m": 0.01
+      },
+      "dipstick": {
+        "instrument_id": "DS-1",
+        "type": "dipstick",
+        "manufacturer": null,
+        "model": "short, white ball",
+        "serial_number": null,
+        "length": 0.8,
+        "units": "m"
+      }
+    },
+    "shots": [
+      {
+        "type": "backsight",
+        "target_code": "BM_old",
+        "rod_reading": 2.0,
+        "timestamp": "2026-06-18T15:16:12.810721"
+      },
+      {
+        "type": "foresight",
+        "rod_reading": 1.5,
+        "timestamp": "2026-06-18T15:13:00",
+        "target_code": "CP-N",
+        "elevation_m": 10.5
+      },
+      {
+        "type": "rod_stage",
+        "rod_reading": 2.5,
+        "timestamp": "2026-06-18T15:13:00",
+        "water_correction": 0.27,
+        "correction_uncertainty_m": 0.01,
+        "wse_m": 9.77
+      },
+      {
+        "type": "closing_backsight",
+        "rod_reading": 2.01,
+        "timestamp": "2026-06-18T15:15:00",
+        "target_code": "BM_old",
+        "elevation_m": 9.99
+      }
+    ],
+    "hi_m": 12.0,
+    "benchmark_snapshot": {
+      "feature_code": "BM_old",
+      "elevation_m": 10.0,
+      "datum": "NAVD88"
+    },
+    "wse_results": [
+      {
+        "wse_m": 9.77,
+        "uncertainty_m": 0.01,
+        "shot_type": "rod_stage",
+        "timestamp": "2026-06-18T15:13:00"
+      }
+    ],
+    "wse_m": 9.77,
+    "wse_uncertainty_m": 0.01,
+    "closure_error_m": 0.009999999999999787,
+    "closure_pass": false
+  },
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}
