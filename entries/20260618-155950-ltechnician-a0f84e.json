@@ -6,10 +6,19 @@
   "timestamp_end": "2026-06-18T15:59:50.199606",
   "observation_time": "2026-06-18T15:59:00",
   "type": "observation",
-  "text": "phase 5a 2",
+  "text": "phase 5a 2\n\nedit from desktop",
   "data": null,
   "tags": [],
   "media": null,
   "deleted": null,
-  "comments": []
+  "comments": [],
+  "edit_history": [
+    {
+      "timestamp": "2026-06-18T16:05:49",
+      "edited_by": "unknown",
+      "changes": {
+        "text": "phase 5a 2"
+      }
+    }
+  ]
 }
