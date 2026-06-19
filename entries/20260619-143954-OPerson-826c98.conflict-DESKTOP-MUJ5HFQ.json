@@ -6,7 +6,7 @@
   "timestamp_end": "2026-06-19T14:39:54.015989",
   "observation_time": "2026-06-19T14:39:00",
   "type": "observation",
-  "text": "original note\ndesktop edit",
+  "text": "original note\n\ntablet edit",
   "data": null,
   "tags": [],
   "media": null,
@@ -14,11 +14,16 @@
   "comments": [],
   "edit_history": [
     {
-      "timestamp": "2026-06-19T14:41:13",
+      "timestamp": "2026-06-19T14:43:23",
       "edited_by": "unknown",
       "changes": {
         "text": "original note"
       }
     }
-  ]
+  ],
+  "_conflict": {
+    "of": "entries/20260619-143954-OPerson-826c98.json",
+    "device": "DESKTOP-MUJ5HFQ",
+    "kept": "local-version-pending-review"
+  }
 }
