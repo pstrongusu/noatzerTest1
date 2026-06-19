@@ -6,10 +6,19 @@
   "timestamp_end": "2026-06-19T14:39:54.015989",
   "observation_time": "2026-06-19T14:39:00",
   "type": "observation",
-  "text": "original note",
+  "text": "original note\ndesktop edit",
   "data": null,
   "tags": [],
   "media": null,
   "deleted": null,
-  "comments": []
+  "comments": [],
+  "edit_history": [
+    {
+      "timestamp": "2026-06-19T14:41:13",
+      "edited_by": "unknown",
+      "changes": {
+        "text": "original note"
+      }
+    }
+  ]
 }
