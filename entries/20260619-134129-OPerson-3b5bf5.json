@@ -6,10 +6,19 @@
   "timestamp_end": "2026-06-19T13:41:29.242273",
   "observation_time": "2026-06-19T13:41:00",
   "type": "observation",
-  "text": "test comment",
+  "text": "test comment\nedited on desktop",
   "data": null,
   "tags": [],
   "media": null,
   "deleted": null,
-  "comments": []
+  "comments": [],
+  "edit_history": [
+    {
+      "timestamp": "2026-06-19T13:43:26",
+      "edited_by": "unknown",
+      "changes": {
+        "text": "test comment"
+      }
+    }
+  ]
 }
