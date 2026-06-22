@@ -1,0 +1,23 @@
+{
+  "entry_id": "20260622-172333-ltechnician-747165",
+  "visit_id": "20260622-LR_WaterLab_AA-65e825",
+  "author": "ltechnician",
+  "timestamp": "2026-06-22T17:23:33.034344",
+  "timestamp_end": "2026-06-22T17:23:33.034344",
+  "observation_time": "2026-06-22T17:23:33.034344",
+  "type": "future",
+  "text": "dfghjk",
+  "future_category": "bring",
+  "future_status": {
+    "state": "open",
+    "acknowledged_at": null,
+    "closed_at": null,
+    "close_reason": null,
+    "resolved_by_entry_id": null
+  },
+  "data": null,
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}
