@@ -1,5 +1,5 @@
 {
-  "entry_id": "20260619-143954-OPerson-826c98",
+  "entry_id": "20260622-134731-OPerson-0947f3",
   "visit_id": "20260619-BSF_CONF_BA-735c50",
   "author": "OPerson",
   "timestamp": "2026-06-19T14:39:54.015989",
@@ -21,9 +21,8 @@
       }
     }
   ],
-  "_conflict": {
-    "of": "entries/20260619-143954-OPerson-826c98.json",
-    "device": "DESKTOP-MUJ5HFQ",
-    "kept": "local-version-pending-review"
+  "split_from_conflict": {
+    "original_entry_id": "20260619-143954-OPerson-826c98",
+    "device": "DESKTOP-MUJ5HFQ"
   }
 }
