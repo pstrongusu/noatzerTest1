@@ -1,0 +1,23 @@
+{
+  "entry_id": "20260622-161508-ltechnician-1b6b29",
+  "visit_id": "20260622-LR_WaterLab_AA-051ffb",
+  "author": "ltechnician",
+  "timestamp": "2026-06-22T16:15:08.893819",
+  "timestamp_end": "2026-06-22T16:15:08.893819",
+  "observation_time": "2026-06-22T16:15:08.893819",
+  "type": "future",
+  "text": "housing depth",
+  "future_category": "check",
+  "future_status": {
+    "state": "open",
+    "acknowledged_at": null,
+    "closed_at": null,
+    "close_reason": null,
+    "resolved_by_entry_id": null
+  },
+  "data": null,
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}

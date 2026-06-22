@@ -1,0 +1,23 @@
+{
+  "entry_id": "20260622-164052-OPerson-8b9ce0",
+  "visit_id": "20260622-BSF_CONF_BA-a5ded1",
+  "author": "OPerson",
+  "timestamp": "2026-06-22T16:40:52.489964",
+  "timestamp_end": "2026-06-22T16:40:52.489964",
+  "observation_time": "2026-06-22T16:40:52.489964",
+  "type": "future",
+  "text": "remove barbed wire",
+  "future_category": "do",
+  "future_status": {
+    "state": "open",
+    "acknowledged_at": null,
+    "closed_at": null,
+    "close_reason": null,
+    "resolved_by_entry_id": null
+  },
+  "data": null,
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}

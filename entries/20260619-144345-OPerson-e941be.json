@@ -10,6 +10,42 @@
   "data": null,
   "tags": [],
   "media": null,
-  "deleted": null,
-  "comments": []
+  "deleted": {
+    "timestamp": "2026-06-22T15:23:59",
+    "by": "unknown",
+    "reason": "test"
+  },
+  "comments": [],
+  "void_history": [
+    {
+      "action": "voided",
+      "timestamp": "2026-06-22T14:42:13",
+      "by": "unknown",
+      "reason": "test"
+    },
+    {
+      "action": "reinstated",
+      "timestamp": "2026-06-22T14:43:01",
+      "by": "unknown",
+      "reason": "test"
+    },
+    {
+      "action": "voided",
+      "timestamp": "2026-06-22T15:08:00",
+      "by": "unknown",
+      "reason": "test"
+    },
+    {
+      "action": "reinstated",
+      "timestamp": "2026-06-22T15:23:42",
+      "by": "unknown",
+      "reason": "test"
+    },
+    {
+      "action": "voided",
+      "timestamp": "2026-06-22T15:23:59",
+      "by": "unknown",
+      "reason": "test"
+    }
+  ]
 }

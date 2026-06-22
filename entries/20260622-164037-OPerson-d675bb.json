@@ -1,0 +1,23 @@
+{
+  "entry_id": "20260622-164037-OPerson-d675bb",
+  "visit_id": "20260622-BSF_CONF_BA-a5ded1",
+  "author": "OPerson",
+  "timestamp": "2026-06-22T16:40:37.346278",
+  "timestamp_end": "2026-06-22T16:40:37.346278",
+  "observation_time": "2026-06-22T16:40:37.346278",
+  "type": "future",
+  "text": "ladders, clippers",
+  "future_category": "bring",
+  "future_status": {
+    "state": "open",
+    "acknowledged_at": null,
+    "closed_at": null,
+    "close_reason": null,
+    "resolved_by_entry_id": null
+  },
+  "data": null,
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}

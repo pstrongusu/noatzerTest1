@@ -1,0 +1,23 @@
+{
+  "entry_id": "20260622-164020-OPerson-6b1e07",
+  "visit_id": "20260622-BSF_CONF_BA-a5ded1",
+  "author": "OPerson",
+  "timestamp": "2026-06-22T16:40:20.371032",
+  "timestamp_end": "2026-06-22T16:40:20.371032",
+  "observation_time": "2026-06-22T16:40:20.371032",
+  "type": "future",
+  "text": "future note",
+  "future_category": "other",
+  "future_status": {
+    "state": "open",
+    "acknowledged_at": null,
+    "closed_at": null,
+    "close_reason": null,
+    "resolved_by_entry_id": null
+  },
+  "data": null,
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}

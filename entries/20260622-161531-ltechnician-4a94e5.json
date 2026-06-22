@@ -1,0 +1,23 @@
+{
+  "entry_id": "20260622-161531-ltechnician-4a94e5",
+  "visit_id": "20260622-LR_WaterLab_AA-051ffb",
+  "author": "ltechnician",
+  "timestamp": "2026-06-22T16:15:31.197128",
+  "timestamp_end": "2026-06-22T16:15:31.197128",
+  "observation_time": "2026-06-22T16:15:31.197128",
+  "type": "future",
+  "text": "comprehensive CP survey",
+  "future_category": "do",
+  "future_status": {
+    "state": "open",
+    "acknowledged_at": null,
+    "closed_at": null,
+    "close_reason": null,
+    "resolved_by_entry_id": null
+  },
+  "data": null,
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": []
+}
