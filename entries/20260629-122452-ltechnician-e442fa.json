@@ -1,0 +1,628 @@
+{
+  "entry_id": "20260629-122452-ltechnician-e442fa",
+  "visit_id": "20260629-LR_WaterLab_AA-0d920d",
+  "author": "ltechnician",
+  "entered_timestamp": "2026-06-29T12:24:52.597263",
+  "record_created": "2026-06-29T12:24:52.597263",
+  "timestamp_end": "2026-06-29T12:24:52.597263",
+  "observation_time": "2026-06-29T12:24:00",
+  "type": "flow_midsection",
+  "text": "Midsection discharge: 20.0000 m³/s (21 stations)\n\n\ntest edit\n\n2",
+  "data": {
+    "method": "midsection",
+    "unit_system": "metric",
+    "units": "m³/s",
+    "length_units": "m",
+    "velocity_units": "m/s",
+    "equipment_text": null,
+    "flowtracker_file": null,
+    "stations": [
+      {
+        "id": "s1",
+        "location": 10.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": "LEW"
+      },
+      {
+        "id": "s2",
+        "location": 11.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s3",
+        "location": 12.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s4",
+        "location": 13.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s7",
+        "location": 14.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s8",
+        "location": 15.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s9",
+        "location": 16.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s11",
+        "location": 17.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s12",
+        "location": 18.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s13",
+        "location": 19.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s14",
+        "location": 20.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s15",
+        "location": 21.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s16",
+        "location": 22.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s17",
+        "location": 23.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s18",
+        "location": 24.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s19",
+        "location": 25.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.2,
+            "velocity": 1.0
+          },
+          {
+            "depth_frac": 0.8,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s20",
+        "location": 26.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.2,
+            "velocity": 1.0
+          },
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          },
+          {
+            "depth_frac": 0.8,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s21",
+        "location": 27.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": "REW"
+      },
+      {
+        "id": "s22",
+        "location": 28.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s23",
+        "location": 29.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      },
+      {
+        "id": "s24",
+        "location": 30.0,
+        "depth": 1.0,
+        "points": [
+          {
+            "depth_frac": 0.6,
+            "velocity": 1.0
+          }
+        ],
+        "velocity_estimate": null,
+        "estimate_basis": null,
+        "note": "",
+        "edge": null
+      }
+    ],
+    "derived": {
+      "total_q": 20.0,
+      "n_stations": 21,
+      "stations": [
+        {
+          "id": "s1",
+          "location": 10.0,
+          "depth": 1.0,
+          "width": 0.5,
+          "area": 0.5,
+          "v_mean": 1.0,
+          "q": 0.5,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 2.5
+        },
+        {
+          "id": "s2",
+          "location": 11.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s3",
+          "location": 12.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s4",
+          "location": 13.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s7",
+          "location": 14.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s8",
+          "location": 15.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s9",
+          "location": 16.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s11",
+          "location": 17.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s12",
+          "location": 18.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s13",
+          "location": 19.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s14",
+          "location": 20.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s15",
+          "location": 21.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s16",
+          "location": 22.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s17",
+          "location": 23.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s18",
+          "location": 24.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s19",
+          "location": 25.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "two_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s20",
+          "location": 26.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "three_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s21",
+          "location": 27.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s22",
+          "location": 28.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s23",
+          "location": 29.0,
+          "depth": 1.0,
+          "width": 1.0,
+          "area": 1.0,
+          "v_mean": 1.0,
+          "q": 1.0,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 5.0
+        },
+        {
+          "id": "s24",
+          "location": 30.0,
+          "depth": 1.0,
+          "width": 0.5,
+          "area": 0.5,
+          "v_mean": 1.0,
+          "q": 0.5,
+          "velocity_source": "derived",
+          "velocity_method": "one_point",
+          "pct_q": 2.5
+        }
+      ]
+    }
+  },
+  "tags": [],
+  "media": null,
+  "deleted": null,
+  "comments": [],
+  "edit_history": [
+    {
+      "timestamp": "2026-06-29T12:34:45",
+      "edited_by": "ltechnician",
+      "changes": {
+        "observation_time": "2026-06-29T12:24:52.597263",
+        "text": "Midsection discharge: 20.0000 m³/s (21 stations)"
+      }
+    },
+    {
+      "timestamp": "2026-06-29T12:34:59",
+      "edited_by": "ltechnician",
+      "changes": {
+        "text": "Midsection discharge: 20.0000 m³/s (21 stations)\n\n\ntest edit"
+      }
+    }
+  ]
+}
